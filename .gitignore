@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Build outputs
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
